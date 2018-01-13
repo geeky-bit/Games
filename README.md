@@ -1,5 +1,6 @@
 # Games
-Some games I have written with basic graphics. (Will upload more soon)
+Some games I have written with basic graphics. 
+**I am working on playing games using deep learning - Atari games using Deep Reinforcement learning, Pokemon(yes!), Chess. Will upload them soon.**
 
 ## Using Monte Carlo method to play Tic-Tac-Toe game (written in c)
 Basically, the program uses Monte Carlo Simulations to probablistically determine its next move.
