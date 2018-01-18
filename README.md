@@ -4,7 +4,8 @@ Some games I have written with very basic graphics.
 
 ## Using Monte Carlo method to play Tic-Tac-Toe game (written in c)
 Basically, the program uses Monte Carlo Simulations to probablistically determine its next move. 
-**Player  --- 'X' **Algorithm --- 'O'**
+**Player  --- 'X'**
+**Algorithm --- 'O'**
 ![alt text](https://github.com/geeky-bit/Games/blob/master/using_Monte_Carlo_for_TicTacToe/ttt-output.gif)
 
 ## Snake Game
