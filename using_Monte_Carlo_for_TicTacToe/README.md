@@ -10,4 +10,4 @@
 
 **Algorithm --- 'O'**
 
-![alt text](https://github.com/geeky-bit/Monte_Carlo__for__TicTacToe/blob/master/ttt-output.gif)
+![alt text](https://github.com/geeky-bit/Games/blob/master/using_Monte_Carlo_for_TicTacToe/ttt-output.gif)
